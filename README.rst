@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpyroma.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpyroma?ref=badge_shield)
+
 pyroma
 ======
 
@@ -105,3 +107,6 @@ Contributors:
   * Nikita Sobolev
   * Charles Tapley Hoyt
   * Max Tyulin
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpyroma.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpyroma?ref=badge_large)
